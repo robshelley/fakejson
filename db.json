@@ -1,7 +1,7 @@
 [
 		{
 			"file": "https://s3-eu-west-1.amazonaws.com/argosvideos/video1.mp4",
-			"locations": ["manchester"] // or just [] to denote all
+			"locations": ["manchester"]
 		},
 		{
 			"file": "https://s3-eu-west-1.amazonaws.com/mokicontent/Armani_LIPMAGNET_Landscape_1920x1080_15.12.16%5B53513533000%5D.mp4",
@@ -13,7 +13,7 @@
 		},
 		{
 			"file": "https://s3-eu-west-1.amazonaws.com/mokicontent/Armani_RedLips_1920x1080_30.01.17%5B53917226800%5D.mp4",
-			"locations": ["london", "york"] // or just [] to denote all
+			"locations": ["london", "york"]
 		},
 		{
 			"file": "https://s3-eu-west-1.amazonaws.com/argosvideos/video3.mp4",
