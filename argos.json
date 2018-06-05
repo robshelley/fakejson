@@ -1,0 +1,139 @@
+{
+	"data": {
+		"type": "products",
+		"id": "4509411",
+		"attributes": {
+			"endOfLineOutOfStock": false,
+			"fastTrack": true,
+			"catentryId": "1403831",
+			"freeDelivery": false,
+			"description": "<p>We have limited stock of this product, please try 345/1663 as an alternative. Perfect for your summer parties and family barbecues, this Premium 4 Burner Gas BBQ is great for those who enjoy outside cooking. There&apos;s a porcelain cooking grill, a side burner for smaller dishes and a warming rack to stop food going cold. Other features include a condiment rack and a bottom shelf. This item is also available for home delivery, please see cat number 4646549. <br \\><br \\></p><p>The BBQ can be easily moved around your garden or patio space. Suitable for both propane and butane gas. Only regulator for propane gas included. <br \\><br \\></p><p>Please see product number 345/0736 for a suitable cover with our Heavy Duty Medium BBQ Cover. <br \\><br \\></p><ul><li>Model number KS17048. </li><li>Constructed from steel. </li><li>Hose and regulator included. </li><li>Uses propane gas only. </li><li>Propane gas not included. </li><li>4 burners. </li><li>1 side burner. </li><li>Flame tamer. </li><li>Warming rack. </li><li>Overall size H107.5, W123.5, D56.7cm. </li><li>Size of cooking area 41 x 61cm. </li><li>Weight 26.37kg. </li><li>Self-assembly. </li><li>EAN: 4509411. </li></ul>",
+			"deliverable": false,
+			"excludedFromMoneyBack": false,
+			"deliveryPrice": 3.95,
+			"inStoreJewelleryItem": false,
+			"globallyOutOfStock": false,
+			"preorderUnavailable": false,
+			"variableDeliveryPrice": false,
+			"name": "Premium 4 Burner Gas BBQ with Side Burner - Store Pickup",
+			"collectable": true,
+			"partNumber": "4509411",
+			"brand": "Unbranded",
+			"isWarrantyItem": false,
+			"maximumQuantity": 10,
+			"price": {
+				"flashText": "Save £35.00",
+				"now": 144.99,
+				"was": 179.99
+			}
+		},
+		"relationships": {
+			"variants": {
+				"links": {
+					"self": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411/relationships/variants",
+					"related": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411/variants"
+				},
+				"data": {
+					"type": "variants",
+					"id": "4509411"
+				}
+			},
+			"breadcrumb": {
+				"links": {
+					"self": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411/relationships/breadcrumb",
+					"related": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411/breadcrumb"
+				},
+				"data": {
+					"type": "breadcrumb",
+					"id": "4509411"
+				}
+			},
+			"legalText": {
+				"links": {
+					"self": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411/relationships/legalText",
+					"related": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411/legalText"
+				},
+				"data": {
+					"type": "legalTexts",
+					"id": "4509411"
+				}
+			},
+			"price": {
+				"links": {
+					"self": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411/relationships/price",
+					"related": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411/price"
+				},
+				"data": {
+					"type": "prices",
+					"id": "4509411"
+				}
+			},
+			"media": {
+				"links": {
+					"self": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411/relationships/media",
+					"related": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411/media"
+				},
+				"data": {
+					"type": "media",
+					"id": "4509411"
+				}
+			}
+		},
+		"links": {
+			"self": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/product/4509411"
+		}
+	},
+	"included": [{
+		"type": "media",
+		"id": "4509411",
+		"attributes": {
+			"images": ["http://media.4rgos.it/i/Argos/4509411_R_Z001A",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z001C",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z003A",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z004A",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z005A",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z008A",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z009A",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z019A",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z002C",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z003C",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z004C",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z010C",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z011C",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z012C",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z013C",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z014C",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z015C",
+			"http://media.4rgos.it/i/Argos/4509411_R_Z019C"],
+			"pdfs": ["http://documents.4rgos.it/v1/static/4509411_R_D001"],
+			"threesixty": [],
+			"meta": {
+				
+			},
+			"videos": ["http://media.4rgos.it/v/Argos/4509411_R_Video900",
+			"http://media.4rgos.it/v/Argos/4509411_R_Video901"]
+		},
+		"relationships": {
+			
+		},
+		"links": {
+			"self": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/media/4509411"
+		}
+	},
+	{
+		"type": "prices",
+		"id": "4509411",
+		"attributes": {
+			"flashText": "Save £35.00",
+			"now": 144.99,
+			"was": 179.99
+		},
+		"relationships": {
+			
+		},
+		"links": {
+			"self": "http://pro-eben-1va7ylod6drde.phuqpfkunw.eu-west-1.elasticbeanstalk.com/prices/4509411"
+		}
+	}],
+	"errors": []
+}
